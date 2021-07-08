@@ -1,0 +1,52 @@
+.container {
+  margin-bottom: 30px;
+}
+
+.title {
+  text-align: center;
+}
+
+.loginForm {
+  width: 320px;
+  text-align: center;
+  border-radius: 8px;
+  padding: 20px;
+  margin: 30px auto;
+  box-shadow: 2px 5px 7px rgba(0, 0, 0, 0.384);
+  background-color: rgba(75, 99, 233, 0.315);
+}
+
+.inputData {
+  border: none;
+  border-radius: 5px;
+  height: 20px;
+  margin: 5px auto;
+  display: block;
+  padding: 14px;
+}
+
+.label {
+  font-size: 20px;
+  justify-content: center;
+  text-align: center;
+  color: rgba(256, 256, 256, 0.8);
+}
+
+.submitBtn {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #1163c0;
+  border-radius: 4px;
+  border: none;
+  outline: none;
+  opacity: 0.8;
+
+  cursor: pointer;
+  color: #fff;
+  font-weight: 700;
+  font-size: 16px;
+  text-transform: uppercase;
+}
+.submitBtn:active {
+  opacity: 1;
+}

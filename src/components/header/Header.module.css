@@ -1,0 +1,8 @@
+.thumb {
+  display: flex;
+  padding: 20px 40px;
+  align-items: baseline;
+  border-bottom: 2px solid rgb(233, 224, 224);
+  justify-content: space-between;
+
+}

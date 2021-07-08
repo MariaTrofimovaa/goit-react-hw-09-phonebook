@@ -1,0 +1,23 @@
+.contactsList {
+  margin: 0 70px;
+}
+
+.contact {
+  display: flex;
+  color: rgb(33, 33, 77);
+  font-weight: 500;
+  margin: 5px;
+  font-size: 15px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.deleteBtn {
+  margin: 10px;
+  background-color: rgb(159, 169, 212);
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 5px;
+}

@@ -1,0 +1,21 @@
+.thumb {
+  display: flex;
+}
+
+.list {
+  display: flex;
+}
+.item:not(:last-child) {
+  margin-right: 30px;
+}
+
+.link {
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 30px;
+  color: rgb(255, 255, 255);
+}
+
+.activeLink {
+  color: #1163c0;
+}

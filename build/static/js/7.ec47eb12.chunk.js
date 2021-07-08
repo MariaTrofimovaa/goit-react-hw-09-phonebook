@@ -1,0 +1,2 @@
+(this.webpackJsonpt=this.webpackJsonpt||[]).push([[7],{114:function(t,e,n){"use strict";n.r(e);n(0);var c=n(89),i=n.n(c),o=n(1);e.default=function(){return Object(o.jsx)("div",{children:Object(o.jsx)("h1",{className:i.a.title,children:"Welcome to Phonebook"})})}},89:function(t,e,n){t.exports={title:"HomePage_title__2UrdI"}}}]);
+//# sourceMappingURL=7.ec47eb12.chunk.js.map
